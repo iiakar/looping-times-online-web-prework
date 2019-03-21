@@ -1,5 +1,5 @@
 def using_times
-	7.time 
+	7.time { puts 
 end
 
 
